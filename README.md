@@ -8,11 +8,12 @@ All codes here are provided free of cost. We hop they also help you.
 
 List of projects:
 
-1. Corlate
+1. https://godsentfx.github.io/GodsentFxDemos.github.io/Corlate/
 
-2. Ethanol
+2. https://godsentfx.github.io/GodsentFxDemos.github.io/Ethanol/
 
-3. Foxclore
+3. https://godsentfx.github.io/GodsentFxDemos.github.io/Foxclore/
+
 
 We are working on this. Thanks for your patience. New codes will be added to this repository as well as their demo URLs.
 

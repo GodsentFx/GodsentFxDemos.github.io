@@ -10,9 +10,9 @@ List of projects:
 
 1. https://godsentfx.github.io/GodsentFxDemos.github.io/Corlate/
 
-2. https://godsentfx.github.io/GodsentFxDemos.github.io/Ethanol/
+2. https://godsentfx.github.io/GodsentFxDemos.github.io/ethanol/
 
-3. https://godsentfx.github.io/GodsentFxDemos.github.io/Foxclore/
+3. https://godsentfx.github.io/GodsentFxDemos.github.io/foxclore/
 
 
 We are working on this. Thanks for your patience. New codes will be added to this repository as well as their demo URLs.

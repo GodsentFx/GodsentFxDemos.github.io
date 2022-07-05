@@ -36,6 +36,6 @@ List of projects:
 We are working on this. Thanks for your patience. New codes will be added to this repository as well as their demo URLs.
 For more info, visit us at GodsentFx.Com.Ng
 
-If you want someone to help you in anything, then, we might be the best choice. Want to have a word? Kindly message us. Sending love from Africa! GofsentFx.
+If you want someone to help you in anything, then, we might be the best choice. Want to have a word? Kindly message us. Sending love from Africa! GodsentFx.
 
 godsentfx@mail.com
